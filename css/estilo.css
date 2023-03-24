@@ -1,0 +1,19 @@
+body {
+	background-image: url('/img/nubes.jpg');
+	background-size: cover;
+}
+
+
+.borde borde, .borde td, .borde th {
+	border: 0.1px solid rgba(128, 128, 128, 0.225);
+	border-collapse: collapse;
+	border-spacing: 0px;
+  }
+
+ table.centrada, table.borde
+ {
+	margin-left:auto;
+	margin-right:auto;
+ } 
+
+.centrada table,th,td {border: 0;}
